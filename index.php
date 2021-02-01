@@ -9,5 +9,5 @@
 // TODO Votre code ici
 
 foreach ($_SERVER as $key => $value){
-    echo $key." : ".$value."<br>";
+    echo "<br>".$key." : ".$value."<br>";
 }
